@@ -1,0 +1,60 @@
+Iniciar cliente: yarn dev
+Iniciar servidor: yarn develop
+******* Sec 5 - cap 35 ********
+- Para utilizar SASS instalar yarn add node-sass
+
+******* Sec 5 - cap 36 ********
+- Para utilizar Semantic UI instalar yarn add semantic-ui-react semantic-ui-css
+- Importar de manera global en _app.js
+    import 'semantic-ui-css/semantic.min.css'
+
+
+******* Sec 5 - cap 44 ********
+-Instalar strapi
+    npx create-strapi-app <nombre>
+-Pasos 
+    *Custom
+    *mongo
+    *host: ecommerce-next.bnxth.mongodb.net
+    *srv: true
+    *puerto: intro
+    *username
+    *password
+    *enable SSL: y
+
+- Crear cuenta en S3 AWS 
+- Crear una ueva politica las politicas IAM
+
+******* Sec 5 - cap 45 ********
+- Conectar strapi con S3, instalar
+    yarn add strapi-provider-upload-aws-s3
+
+
+******* Sec 6 - cap 51 ********
+- Instalar Formik (maneja datos del formulario, errores, etc)
+    yarn add formik
+- Instalar Yup (valida)
+    yarn add yup
+
+******* Sec 6 - cap 53 ********
+- Instalar react-toastify
+    yarn add react-toastify
+
+******* Sec 6 - cap 58 ********
+- Instalar jwt-decode
+    yarn add jwt-decode
+
+******* Sec 7 - cap 65 ********
+- Instalar classnames (para añadir condicionales al className)
+    yarn add classnames
+
+
+******* Sec 9 - cap 84 ********
+- Instalar lodash (funciones basicas de javascript mejoradas)
+    yarn add lodash
+
+******* Sec 11 - cap 100 ********
+- Instalar query-string (convierte una query en string y viceversa)
+    yarn add query-string
+
+    
